@@ -30,8 +30,18 @@ An FTP-client application for establishing communication with a remote FTP-serve
 
 ## Some screenshots
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![1](https://user-images.githubusercontent.com/102554863/191856056-5d3cb491-3711-4724-b27f-5cb686652932.jpg)
+<br />
+Main window
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+![2](https://user-images.githubusercontent.com/102554863/191856832-5304a0a1-f3c3-481f-902d-0281c4187cd8.jpg)
+<br />
+Program Settings window
+
+![3](https://user-images.githubusercontent.com/102554863/191857460-e88cb56a-edc9-4eff-9194-de8ba093afe6.jpg)
+<br />
+The result of uploading files to the FTP server
+
+![6](https://user-images.githubusercontent.com/102554863/191857587-9b4a39aa-5eeb-4e09-a61d-468f24ac2f3c.jpg)
+<br />
+The connection to the server is broken (result)
